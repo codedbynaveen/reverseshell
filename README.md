@@ -5,7 +5,7 @@ Copy the R11.exe file to any directory on the target system. You can also rename
 Run the R11.exe file on the target system.
 
 Login from another system using PuTTY:
-
+Target ip : target system ip
 Port number: 2580
 
 Protocol: RAW
